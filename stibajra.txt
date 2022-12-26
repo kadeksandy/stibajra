@@ -1,2 +1,4 @@
 STIBAJRA RESOLUSI
--  Membuat forum diskusi
+- Membuat forum diskusi
+- Membuat kankin lebih besar
+- Mengadakan webinar
